@@ -1,0 +1,28 @@
+{
+    "site": {
+        "settings": {
+            "general": {
+                "site_name": "The LaraSoft",
+                "site_logo": "upload\/img\/1677745363-site-logo.png",
+                "site_favicon": "upload\/img\/1677745363-site-favicon.png",
+                "footer_detail": "It is a long established fact that a reader will be distributed by the readable content of a page when looking at its layout."
+            },
+            "contact_info": {
+                "phone": "+88-01822252198",
+                "mail": "info@thelarasoft.com",
+                "address": "UCEP Cheyne Tower (3rd Floor) 25 Segunbagicha, Ramna, Dhaka-1000."
+            },
+            "newsletter": {
+                "title": "Subscribe To Our Newsletter",
+                "text": "It is a long established fact that a reader will be distributed by the readable content of a page when looking at its layout."
+            },
+            "backlink": {
+                "qrcode": null,
+                "facebook": "https:\/\/www.facebook.com\/tlarasoft\/",
+                "linkedin": "https:\/\/www.linkedin.com\/company\/tlarasoft\/",
+                "youtube": "https:\/\/www.youtube.com\/channel\/UCvQ2qwNbP4EZmuXDlqZwdDA",
+                "instagram": "https:\/\/www.instagram.com\/tlarasoft\/"
+            }
+        }
+    }
+}
